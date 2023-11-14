@@ -10,11 +10,9 @@ paced environment, one where learning is encouraged, and failure is not feared a
 dynamically among employees.
 ```
 ```
-{
 With a keen interest in problem-solving and analytical thinking, I aim to be able to grow an end-to-end knowledge 
 of data pipeline, to have an all-inclusive knowledge of data processes. 
 I am currently seeking an opportunity that will help me to gain experience, acquire professional knowledge, and 
 grow within the industry. I aim to draw on my experience and knowledge gained to add value to any organisation 
 I represent.
-}
 ```
