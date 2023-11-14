@@ -2,13 +2,12 @@
 Getting started with Github
  # *BSC MATHEMATICS_Aspiring Data Scientist*
  ```
-{ I am a results-driven individual who has recently completed my BSc Physical Science Degree in Mathematics and 
+ I am a results-driven individual who has recently completed my BSc Physical Science Degree in Mathematics and 
 Chemistry from the University of Johannesburg. As a proactive, determined, and enthusiastic individual, I pride 
 myself on my ability to solve problems and am determined to succeed in all that I do. 
 I enjoy having to prepare and solve any challenges presented and would thrive working in a competitive, fast 
 paced environment, one where learning is encouraged, and failure is not feared and were knowledge flows 
 dynamically among employees.
-}
 ```
 ```
 {
